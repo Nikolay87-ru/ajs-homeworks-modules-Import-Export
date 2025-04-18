@@ -1,4 +1,14 @@
 {
+    "name": "import-export",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "webpack",
+      "start": "webpack serve --open"
+    },
+    "author": "Rysaev Damir <freepad@ya.ru>",
+    "license": "MIT",
   "devDependencies": {
     "webpack": "^5.99.6",
     "webpack-cli": "^6.0.1"
